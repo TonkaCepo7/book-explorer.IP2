@@ -18,7 +18,6 @@ npm install
 npm run dev
 ##Frontend
 bash
-Copy code
 cd frontend
 npm install
 npm run dev
